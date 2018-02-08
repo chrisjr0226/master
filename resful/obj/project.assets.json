@@ -12541,11 +12541,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\evan\\ASPNET_Core\\GitAPI\\master\\resful\\resful.csproj",
+      "projectUniqueName": "d:\\evan\\Git\\master\\resful\\resful.csproj",
       "projectName": "resful",
-      "projectPath": "D:\\evan\\ASPNET_Core\\GitAPI\\master\\resful\\resful.csproj",
+      "projectPath": "d:\\evan\\Git\\master\\resful\\resful.csproj",
       "packagesPath": "C:\\Users\\el8y\\.nuget\\packages\\",
-      "outputPath": "D:\\evan\\ASPNET_Core\\GitAPI\\master\\resful\\obj\\",
+      "outputPath": "d:\\evan\\Git\\master\\resful\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
